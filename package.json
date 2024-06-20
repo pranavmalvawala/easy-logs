@@ -1,5 +1,5 @@
 {
-  "name": "easy-logs",
+  "name": "esy-logs",
   "version": "0.0.1",
   "description": "A simple logging service like cloudwatch",
   "main": "./lib/index.js",
