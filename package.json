@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pranavmalvawala/easy-logs.git"
+    "url": "git+https://github.com/pranavmalvawala/esy-logs.git"
   },
   "license": "MIT",
   "author": {
@@ -42,9 +42,9 @@
     "codecov"
   ],
   "bugs": {
-    "url": "https://github.com/pranavmalvawala/easy-logs/issues"
+    "url": "https://github.com/pranavmalvawala/esy-logs/issues"
   },
-  "homepage": "https://github.com/pranavmalvawala/easy-logs#readme",
+  "homepage": "https://github.com/pranavmalvawala/esy-logs#readme",
   "devDependencies": {
     "@ryansonshine/commitizen": "^4.2.8",
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
